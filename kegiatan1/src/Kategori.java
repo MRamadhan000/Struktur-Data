@@ -1,0 +1,3 @@
+public enum Kategori {
+    FIKSI, NON_FIKSI, PENDIDIKAN, TEKNOLOGI, SEJARAH;
+}
